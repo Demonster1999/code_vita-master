@@ -24,4 +24,6 @@ This is a simple environment for the vscode.it consist of a
 
 - to run a script press F5.
 
+``` note : You may be having some issues please check your python virtualenv path  . ```
+
 
