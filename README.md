@@ -11,15 +11,15 @@ This is a simple environment for the vscode.it consist of a
 
 - to install the pipenv simply run :
 
-```cmd   pip install pipenv  ```
-   ------------------------- or simply --------------------------------- 
+```   pip install pipenv  ```
+------------------------- or simply --------------------------------- 
 
-```cmd  python -m pip install pipenv   ```
+``` python -m pip install pipenv   ```
 
 
 - to get the virtualenv on your system  run :
 
-```cmd   pipenv shell  ```
+```   pipenv shell  ```
 
 - to run a script press F5.
 
