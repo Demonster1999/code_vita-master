@@ -12,6 +12,7 @@ This is a simple environment for the vscode.it consist of a
 - to install the pipenv simply run :
 
 ```   pip install pipenv  ```
+# 
 ------------------------- or simply --------------------------------- 
 
 ``` python -m pip install pipenv   ```
